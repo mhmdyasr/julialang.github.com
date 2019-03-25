@@ -6,20 +6,32 @@ title:  Learning Julia
 # Online tutorials
 ## Upcoming
 
-To be announced!
+* [Intro to Julia](https://www.youtube.com/watch?v=BYW2J2WWkj8), by Jane Herriman on July 20, 2018 at 10AM PDT/1PM EDT/19:00CET/10:30PM IST
+* [Intro to Julia for data science](https://www.youtube.com/watch?v=SLE0vz85Rqo), by Huda Nassar on July 25, 2018 at 10AM PDT/1PM EDT/19:00CET/10:30PM IST
 
 ## Past
-* [Intro to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ), by Jane Herriman (Dec 19, 2017) 
+* [Intro to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ), by Jane Herriman (December 19, 2017) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4igzy3bGVkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 * Intro to Julia by Jane Herriman (January 25, 2018)
-* [Intro to solving differential equations in Julia](https://www.youtube.com/watch?v=KPEqYtEd-zY)
+* [Intro to solving differential equations in Julia](https://www.youtube.com/watch?v=KPEqYtEd-zY),
 by Chris Rackauckas (February 6, 2018)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KPEqYtEd-zY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-* Intro to Julia by Jane Herriman (February 15, 2018)
+* Intro to Julia, by Jane Herriman (February 15, 2018)
 * [Intro to JuliaDB, a package for working with large persistent data sets](https://www.youtube.com/watch?v=d5SzUh2_ono) by Josh Day and Shashi Gowda (February 28, 2018)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5SzUh2_ono" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* Intro to Julia, by Jane Herriman (April 6, 2018)
+* [Introducción a Julia en español](https://youtu.be/LbTbs-0pOuc), by Miguel Raz Guzmán (April 7, 2018)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbTbs-0pOuc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* Intro to Julia, by Jane Herriman (May 4, 2018)
+* [Intro to dynamical systems in Julia](https://www.youtube.com/watch?v=13hqE_1a158), by George Datseris (May 10, 2018)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13hqE_1a158" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* [Intro to Julia Data Frames](https://www.youtube.com/watch?v=0-Xsts_s5Wc), by Bogumił Kamiński (May 24, 2018)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-Xsts_s5Wc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* Intro to Julia,  by Jane Herriman (June 8, 2018)
+* [Intro to the Queryverse, a Julia data science stack](https://www.youtube.com/watch?v=OFPNph-WxLM), by David Anthoff (June 14, 2018)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFPNph-WxLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Get jupyter notebooks for "Intro to Julia" [here](https://github.com/xorJane/Introduction_to_Julia_tutorials) in English and Spanish!
+Get jupyter notebooks for all past tutorials [here](https://github.com/JuliaComputing/JuliaBoxTutorials) or run them directly on [JuliaBox](JuliaBox.com)!
 
 # Books
 
@@ -54,6 +66,7 @@ Get jupyter notebooks for "Intro to Julia" [here](https://github.com/xorJane/Int
 - [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) by [Chris von Csefalvay](http://chrisvoncsefalvay.com/)
 - [Hands-on Julia](https://github.com/dpsanders/hands_on_julia) by [David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/)
 - [A Comprehensive Tutorial to Learn Data Science with Julia from Scratch](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/) by [Mohd Sanad Zaki Rizvi](https://www.analyticsvidhya.com/blog/author/mohdsanadzakirizvigmail-com/)
+- [Think Julia](https://github.com/BenLauwens/ThinkJulia.jl) - a Julia version of [Alan Downey's](http://www.greenteapress.com/thinkpython/thinkpython.html) "Think Python: How to Think Like a Computer Scientist"
 
 
 # Resources

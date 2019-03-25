@@ -10,11 +10,11 @@ Most also have channels on the main Julia Slack channel, and sub-forums on the m
 
 ## International Localisation Efforts & Resources
 
-* [JuliaLangEs](https://github.com/JuliaLangEs) – Julia resources in the Spanish language ([Mailing-list](https://groups.google.com/forum/#!forum/julialanges)], [Twitter](https://twitter.com/JuliaLangsEs), [Discord](https://discord.me/julialang-es), [Facebook](https://www.facebook.com/groups/julialang.es/), [WhatsApp](https://chat.whatsapp.com/invite/J9T033nZO8MLn96wWjlnHb))
-* [JuliaLangPt](https://github.com/JuliaLangPt) – Site for translation of Julia documentation, etc. to Portuguese ([Gitter](https://gitter.im/JuliaLangPt/julia))
+* [JuliaLangEs](https://github.com/JuliaLangEs) – Julia resources in the Spanish language ([Mailing-list](https://groups.google.com/forum/#!forum/julialanges), [Twitter](https://twitter.com/JuliaLangsEs), [Discord](https://discord.me/julialang-es), [Facebook](https://www.facebook.com/groups/julialang.es/), [WhatsApp](https://chat.whatsapp.com/invite/J9T033nZO8MLn96wWjlnHb))
+* [JuliaLangPt](https://github.com/JuliaLangPt) – Julia resources in the Portuguese language ([Gitter](https://gitter.im/JuliaLangPt/julia))
 * [JuliaCN](https://github.com/JuliaCN) – An open-source organization for Julia localization in Chinese (QQ ID 188374671, )
 * [JuliaTokyo](https://github.com/JuliaTokyo) – Julia resources in the Japanese language ([Mailing-list](https://groups.google.com/forum/#!forum/julia-tokyo), [Twitter](https://twitter.com/JuliaLangJa), [Slack](https://juliatokyo.slack.com), [Slack invite](https://julia-tokyo-inviter.herokuapp.com/), [Facebook](https://www.facebook.com/groups/885166968160540/))
-* [JuliaGerman](https://github.com/JuliaLangGerman) – German manual for the Julia language ([manual](https://github.com/JuliaLangGerman/Julia_Handbuch_Deutsch))
+* [JuliaGerman](https://github.com/JuliaLangGerman) – Julia resources in the German language ([manual](https://github.com/JuliaLangGerman/Julia_Handbuch_Deutsch))
 
 ## General
 
@@ -23,7 +23,7 @@ Most also have channels on the main Julia Slack channel, and sub-forums on the m
 * [JuliaTime](https://github.com/JuliaTime) – Date and time libraries
 * [JuliaPraxis](https://github.com/JuliaPraxis) – Best practices ([Gitter](https://gitter.im/JuliaPraxis))
 * [JuliaEditorSupport](https://github.com/JuliaEditorSupport) – Extensions/Plugins for text editors and IDEs
-* [Juno](https://github.com/JunoLab/Juno) – The Juno IDE for Atom [Gitter](https://gitter.im/JunoLab/Juno)
+* [Juno](https://github.com/JunoLab) – The Juno IDE for Atom ([Gitter](https://gitter.im/JunoLab/Juno))
 
 ## Computing
 
@@ -35,6 +35,7 @@ Most also have channels on the main Julia Slack channel, and sub-forums on the m
 * [JuliaIO](https://github.com/JuliaIO) – IO-related functionality, such as serialization
 * [JuliaParallel](https://github.com/JuliaParallel) – [Parallel programming in Julia](http://juliaparallel.github.io/)
 * [JuliaWeb](https://github.com/JuliaWeb) – Web stack
+* [JuliaCloud](https://github.com/juliacloud) - Cloud providers
 
 
 ## Mathematics
@@ -43,6 +44,7 @@ Most also have channels on the main Julia Slack channel, and sub-forums on the m
 * [JuliaDiffEq](https://github.com/JuliaDiffEq) – [Differential equation solving and analysis](https://juliadiffeq.github.io/) ([Gitter](https://gitter.im/JuliaDiffEq/Lobby))
 * [JuliaGeometry](https://github.com/JuliaGeometry) – Computational Geometry
 * [JuliaGraphs](https://github.com/JuliaGraphs) – Graph Theory and Implementation
+* [JuliaIntervals](https://github.com/JuliaIntervals) - Rigorous numerics with interval arithmetic & applications
 * [JuliaMath](https://github.com/JuliaMath) – Mathematics made easy in Julia
 * [JuliaOpt](https://github.com/JuliaOpt) – [Optimization](http://www.juliaopt.org/) ([Gitter](https://gitter.im/JuliaOpt/home))
 * [JuliaPolyhedra](https://github.com/JuliaPolyhedra) – [Polyhedral computation](https://juliapolyhedra.github.io/)
@@ -58,13 +60,14 @@ Most also have channels on the main Julia Slack channel, and sub-forums on the m
 * [JuliaQuantum](https://github.com/JuliaQuantum) – [Julia libraries for quantum science and technology](http://juliaquantum.github.io/) ([Gitter](https://gitter.im/JuliaQuantum/home))
 * [JuliaPhysics](https://github.com/JuliaPhysics) – Physics
 * [JuliaDynamics](https://github.com/JuliaDynamics) - [Dynamical systems](https://juliadynamics.github.io/DynamicalSystems.jl/latest/), nonlinear dynamics and chaos.
+* [JuliaGeo](https://github.com/JuliaGeo) – Earth science, geospatial data processing
 
 ## Data Science
-* [JuliaML](https://github.com/JuliaML) – [Machine Learning](https://juliaml.github.io/)  ([JuliaML](https://gitter.im/JuliaML/chat))
+* [JuliaML](https://github.com/JuliaML) – [Machine Learning](https://juliaml.github.io/)  ([Gitter](https://gitter.im/JuliaML/chat))
 * [JuliaStats](https://github.com/JuliaStats) – [Statistics](http://juliastats.github.io/)
 * [JuliaImages](https://github.com/JuliaImages) – Image Processing
 * [JuliaText](https://github.com/JuliaText) – Natural Language Processing (NLP), Computational Linguistics  and (textual) Information Retrieval
-* [JuliaDB](https://github.com/JuliaDB) – Various database drivers for Julia
+* [JuliaDatabases](https://github.com/JuliaDatabases) – Various database drivers for Julia
 * [JuliaData](https://github.com/JuliaData) – Data manipulation, storage, and I/O in Julia
 
 
